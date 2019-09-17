@@ -1,7 +1,5 @@
 # wumou-repository
 repository
 this is HJ's class
-welcome
-to
-hj
-class
+ Embedded computer system refers to the application as the core, computer technology, software and hardware can be configured for functionality, reliability, cost, size, power consumption, there are strict constraints of a dedicated computer system. The 21st century is the era of embedded systems, because of its full-featured, low power consumption, high reliability, wide adaptation, and many other characteristics, people's daily life and work in contact with the instruments and equipment are inseparable from embedded computer systems around the a study of embedded systems. This course is designed to change the backward situation of embedded technology education to help students fully grasp the basic principles and embedded systems design and development methods.
+ Through this course, the first so that students fully understand the concept of embedded systems, composition and characteristics of the hardware platform to build, embedded operating systems, network technology knowledge; of embedded computer system design principles and design procedures; in-depth understanding of specific components of embedded systems design methods, including: the choice of the principle of embedded processors, bus design, memory design, a variety of common peripheral interface design, system reliability design, system debugging. Students completing this course, we could design a small stand-alone embedded computer systems.
